@@ -43,6 +43,8 @@
 |---------|----------|------------|
 | [BudgetTracker](https://github.com/IlyaMakar/BudgetTracker) | CLI и web-приложение на Go для отслеживания доходов и расходов. | Go, SQLite, HTML/CSS |
 | [ToDoAPP](https://github.com/IlyaMakar/ToDoAPP) | проложение для отслеживания задач. | Go |
+| [TelegramBot](https://github.com/IlyaMakar/TelegramBot) | Новостной телеграм-бот с chatGPT APi | Go, Docker, PostgreSQL |
+| [Graph_bot](https://github.com/IlyaMakar/Graph_bot) | Бот для Барбершопа  | Go, telegraf, google api |
 
 ---
 
